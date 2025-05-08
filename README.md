@@ -1,17 +1,29 @@
 ## Hi there 👋
+👋 Hello! I'm Nagesh Ige
 
-<!--
-**Nagesh-Ige/Nagesh-Ige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an **Artificial Intelligence and Data Science Engineering** student with a strong interest in building intelligent systems and exploring data-driven solutions. Currently, I'm learning:
 
-Here are some ideas to get you started:
+- 🐍 Python
+- 💻 C Language
+- 🚀 C++ Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 My GitHub Profile
+Check out my repositories and contributions: [github.com/Nagesh-Ige](https://github.com/Nagesh-Ige)
+
+## 📚 What You'll Find Here
+
+- 🔬 Mini projects and practice code in AI, ML, Python, and core programming.
+- 🧠 Learning notes and experiments with algorithms.
+- 🔧 Hands-on practice with real-world datasets and problem solving.
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nagesh-ege-0a8929290)
+- [Twitter / X](https://x.com/NageshEge?s=09)
+- [Instagram](https://www.instagram.com/nagesh_ige?igsh=bnF1MnhsZXRmZDJ0)
+
+---
+
+> 💡 I'm always open to collaboration and feedback. Feel free to explore, fork, and connect!
+
 [![GitHub Views](https://komarev.com/ghpvc/?username=Nagesh-Ige&color=red)]
