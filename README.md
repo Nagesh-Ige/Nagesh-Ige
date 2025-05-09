@@ -10,7 +10,7 @@
 - 💡 Learning **Python**, **C**, and **C++**
 - 🚀 Interested in AI, Machine Learning, and Data-Driven Technologies
 - 🛠️ Building mini-projects, learning algorithms, and exploring tech
-- 📫 Reach me at: **nageshige@gmail.com**
+- 📫 Reach me at: **nageshege0@gmail.com**
 
 ---
 
@@ -50,7 +50,7 @@
   <a href="https://www.instagram.com/nagesh_ige?igsh=bnF1MnhsZXRmZDJ0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:nageshige@gmail.com" target="_blank">
+  <a href="mailto:nageshege0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
