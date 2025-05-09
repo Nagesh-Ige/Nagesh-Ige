@@ -29,12 +29,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nagesh-Ige&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nagesh-Ige&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagesh-Ige&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+## 📈 GitHub Statistics
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh-ige&" alt="nagesh-ige" />
+</p>
+
 
 ---
 
