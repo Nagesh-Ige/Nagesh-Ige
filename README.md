@@ -10,7 +10,7 @@
 - 💡 Learning **Python**, **C**, and **C++**
 - 🚀 Interested in AI, Machine Learning, and Data-Driven Technologies
 - 🛠️ Building mini-projects, learning algorithms, and exploring tech
-- 📫 Reach me at: **nageshege0@.com**
+- 📫 Reach me at: **nageshige@.com**
 
 ---
 
